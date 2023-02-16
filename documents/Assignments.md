@@ -2,6 +2,25 @@
 
 Note: Please only pickup an assignment that has been allotted by the instructor.
 
+## Assignment-0
+
+Create an account on GitHub if you don't already have one.
+
+Create a **private** repository in GitHub.
+
+Ensure the repository is **private** else your assignments won't be accepted.
+
+Name the repository appropriately. For example, _zs-java-assignments-<your-name>_.
+Replace _<your-name>_ with your name in lower-case.
+
+The aim of this repository will be to contain all your assignments.
+
+Initialize this repository with a .gitignore file. You can do that at the time of the repository creation.
+Choose the Java template for .gitignore. However, since we'll be using IntelliJ and Gradle, you should add their
+respective ignorable files and directories in the .gitignore. Refer .gitignore of this project.
+
+create pull request from feature branch to main/master branch and add mentors/trainers as reviewers.
+
 ## Assignment-1
 
 Create a class SystemInfo.java in a proper package related to this assignment.
