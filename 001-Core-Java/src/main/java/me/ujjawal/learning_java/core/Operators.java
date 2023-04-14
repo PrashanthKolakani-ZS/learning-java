@@ -70,6 +70,7 @@ public class Operators {
         System.out.println(String.format("%d | %d --> %d", f, g, f | g));
         System.out.println(String.format("%d ^ %d --> %d", f, g, f ^ g));
 
+
         /**
          * Logical - logical
          */
